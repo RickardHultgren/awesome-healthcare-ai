@@ -123,6 +123,7 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
   * [Muscular Movement Recognition](https://paperswithcode.com/task/muscular-movement-recognition)
   * [Sequential Diagnosis](https://paperswithcode.com/task/sequential-diagnosis)
   * [Medical VQA](https://github.com/aioz-ai/MICCAI19-MedVQA)
+  * [LYMPHA - A programming language for medical algorithms](https://lympha.readthedocs.io/en/latest/)
 
 ### Medical Privacy 
   * Safe harbour
